@@ -1,0 +1,7 @@
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-5\bin\Release\DE-5.exe.config
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-5\bin\Release\DE-5.exe
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-5\bin\Release\DE-5.pdb
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-5\obj\Release\DE-5.csproj.AssemblyReference.cache
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-5\obj\Release\DE-5.csproj.CoreCompileInputs.cache
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-5\obj\Release\DE-5.exe
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-5\obj\Release\DE-5.pdb
