@@ -1,0 +1,7 @@
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\EX\EX-2\bin\x64\Release\EX-2.exe.config
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\EX\EX-2\bin\x64\Release\EX-2.exe
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\EX\EX-2\bin\x64\Release\EX-2.pdb
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\EX\EX-2\obj\x64\Release\EX-2.csproj.AssemblyReference.cache
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\EX\EX-2\obj\x64\Release\EX-2.csproj.CoreCompileInputs.cache
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\EX\EX-2\obj\x64\Release\EX-2.exe
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\EX\EX-2\obj\x64\Release\EX-2.pdb
