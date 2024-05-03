@@ -1,0 +1,7 @@
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-xor\bin\Release\tool-encoder.exe.config
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-xor\bin\Release\tool-encoder.exe
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-xor\bin\Release\tool-encoder.pdb
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-xor\obj\Release\tool-encoder.csproj.AssemblyReference.cache
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-xor\obj\Release\tool-encoder.csproj.CoreCompileInputs.cache
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-xor\obj\Release\tool-encoder.exe
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-xor\obj\Release\tool-encoder.pdb

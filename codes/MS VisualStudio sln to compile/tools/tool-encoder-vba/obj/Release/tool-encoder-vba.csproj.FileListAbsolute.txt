@@ -1,0 +1,14 @@
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-vba-encoder\bin\Release\tool-encoder-vba.exe.config
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-vba-encoder\bin\Release\tool-encoder-vba.exe
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-vba-encoder\bin\Release\tool-encoder-vba.pdb
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-vba-encoder\obj\Release\tool-encoder-vba.csproj.AssemblyReference.cache
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-vba-encoder\obj\Release\tool-encoder-vba.csproj.CoreCompileInputs.cache
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-vba-encoder\obj\Release\tool-encoder-vba.exe
+C:\Users\Jackie\Desktop\osep\job\purple\codes\tools\tool-vba-encoder\obj\Release\tool-encoder-vba.pdb
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\tools\tool-encoder-vba\bin\Release\tool-encoder-vba.exe.config
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\tools\tool-encoder-vba\bin\Release\tool-encoder-vba.exe
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\tools\tool-encoder-vba\bin\Release\tool-encoder-vba.pdb
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\tools\tool-encoder-vba\obj\Release\tool-encoder-vba.csproj.AssemblyReference.cache
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\tools\tool-encoder-vba\obj\Release\tool-encoder-vba.csproj.CoreCompileInputs.cache
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\tools\tool-encoder-vba\obj\Release\tool-encoder-vba.exe
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\tools\tool-encoder-vba\obj\Release\tool-encoder-vba.pdb
