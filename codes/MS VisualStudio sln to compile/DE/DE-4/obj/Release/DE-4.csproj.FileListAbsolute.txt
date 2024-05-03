@@ -1,0 +1,7 @@
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-4\bin\Release\DE-4.exe.config
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-4\bin\Release\DE-4.exe
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-4\bin\Release\DE-4.pdb
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-4\obj\Release\DE-4.csproj.AssemblyReference.cache
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-4\obj\Release\DE-4.csproj.CoreCompileInputs.cache
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-4\obj\Release\DE-4.exe
+C:\Users\Jackie\Desktop\Pass\osep\job\purple\codes\DE\DE-4\obj\Release\DE-4.pdb
